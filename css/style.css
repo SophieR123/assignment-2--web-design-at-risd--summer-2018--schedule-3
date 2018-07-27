@@ -1,0 +1,18 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body{
+  font-family:'Avenir Next',sans-serif;
+  width: 960px;
+  margin: auto;
+}
+
+h1{
+  font-family:'Avenir Next',sans-serif;
+  font-size: 72px;
+  margin-top:12px;
+  text-align: left;
+  margin-bottom:20px;
+}
